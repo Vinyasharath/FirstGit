@@ -7,6 +7,10 @@ public class Gitjava {
 System.out.println("jjjjjjjjjj");
 
 System.out.println("jjjjjjjjjj");
+
+System.out.println("jjjjjjjjjj");
+System.out.println("jjjjjjjjjj");
+System.out.println("jjjjjjjjjj");
 	}
 
 }
