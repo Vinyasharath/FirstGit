@@ -23,7 +23,7 @@ public class Webbrowser1 {
 		c1.clear();
 		c1.sendKeys("babu");
 		c1.clear();
-
+//new changes
 		WebElement c2=driver1.findElement(By.id("pass"));
 		c2.sendKeys("sharath");
 		c1.clear();
